@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://how-to-buy-crypto.github.io/test-sitemap.xml
